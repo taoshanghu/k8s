@@ -1,0 +1,3 @@
+# base image
+FROM grc.io/google_containers/coredns:1.1.3
+MAINTAINER Taoshanghu <taoshanghu@163.com>
