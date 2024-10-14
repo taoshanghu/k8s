@@ -1,3 +1,3 @@
 # base image
-FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.0
+FROM yourls:1.9.2-fpm
 MAINTAINER Taoshanghu <taoshanghu@163.com>
